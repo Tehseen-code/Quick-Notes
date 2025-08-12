@@ -26,8 +26,7 @@ Prerequisites
 
 Installation
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   ```bash (https://github.com/Tehseen-code/Quick-Notes.git)
 2. Open in Android Studio.
 3. Build and run on an emulator or device.
 
